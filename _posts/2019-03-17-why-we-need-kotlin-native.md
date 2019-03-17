@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Why We need Kotlin Native"
 date:   2019-03-10 18:01:47 -0400
-categories: jekyll update
-permalink: /about/
+categories: kotlin native android ios
+permalink: /why-we-need-kotlin-native/
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

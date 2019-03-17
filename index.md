@@ -12,7 +12,7 @@ I'm an Engineer working at Etsy on the Android apps. This is my personal space. 
 
 ## Articles
 
-- Why we need Kotlin Native
+- [Why we need Kotlin Native](/why-we-need-kotlin-native/)
 - [Building a Kotlin Native App on iOS and Android](https://medium.com/android-things/building-a-kotlin-native-on-ios-android-6a6db9df5bef)
 
 ## Podcasts
@@ -25,4 +25,5 @@ I'm an Engineer working at Etsy on the Android apps. This is my personal space. 
 
 ## Books
 
+- [Clean Architecture by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [Refactoring by Martin Fowler](https://martinfowler.com/books/refactoring.html)
