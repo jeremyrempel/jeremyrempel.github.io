@@ -21,6 +21,9 @@ url: "http://jeremyrempel.com" # the base hostname & protocol for your site, e.g
 twitter_username: jeremyrempel
 github_username:  jeremyrempel
 
+github:
+  url: https://github.com/jeremyrempel
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker
