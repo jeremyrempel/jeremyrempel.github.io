@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Jeremy Rempel
 email: jeremy.rempel@gmail.com
-description: Jeremy Rempel: Android, Kotlin, Software Engineering, Tech
+description: "Jeremy Rempel: Android, Kotlin, Software Engineering, Tech"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jeremyrempel.com" # the base hostname & protocol for your site, e.g. http://example.com
 
