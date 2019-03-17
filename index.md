@@ -21,6 +21,7 @@ I'm an Engineer working at Etsy on the Android apps. This is my personal space. 
 - [Fragmented Podcast](https://fragmentedpodcast.com/)
 - [AB Testing](https://www.angryweasel.com/ABTesting/)
 - [SE Daily](https://softwareengineeringdaily.com/)
+- [Android Backstage](http://androidbackstage.blogspot.com/)
 
 ## Books
 
