@@ -8,8 +8,9 @@ I'm an Engineer working at Etsy on the Android apps. This is my personal space. 
 
 ## Current Interests
 - Android
-- Kotlin Native
+- Multiplatform Mobile / Kotlin Native
 - Clean Architecture
+- Offline First Mobile
 
 ## Articles
 - Refactoring Kotlin - INPRG
