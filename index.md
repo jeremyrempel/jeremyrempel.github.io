@@ -4,25 +4,25 @@
 layout: default
 ---
 
-I'm an Engineer working at Etsy on the Android apps. This is my personal space. Any content and ideas are my own.
+I'm an Engineer working at Etsy on Android. This is my personal space. Any content and ideas are my own. I write and talk about things that are interesting to me.
 
-## Current Interests
+## My Interests
 - Android
 - Multiplatform Mobile / Kotlin Native
 - Clean Architecture
 - Offline First Mobile
 
-## Articles
+## My Articles
 - Refactoring Kotlin - INPRG
 - Building an Offline First Mobile App - INPRG
 - [Why we need Kotlin Native](https://medium.com/android-things/why-we-need-kotlin-native-adacc03e988c)
 - [Building a Kotlin Native App on iOS and Android](https://medium.com/android-things/building-a-kotlin-native-on-ios-android-6a6db9df5bef)
 
-## Speaking
+## My Speaking
 - *Brooklyn Kotlin* - Building a Kotlin Native App on iOS and Android: Apr 25
 - *Droidcon Vienna* - Building a Kotlin Native App on iOS and Android: Sept 19-20
 
-## Podcasts
+## Podcasts that inspire me
 
 - [Talking Kotlin](http://talkingkotlin.com/)
 - [Fragmented Podcast](https://fragmentedpodcast.com/)
@@ -30,7 +30,7 @@ I'm an Engineer working at Etsy on the Android apps. This is my personal space. 
 - [SE Daily](https://softwareengineeringdaily.com/)
 - [Android Backstage](http://androidbackstage.blogspot.com/)
 
-## Books
+## Books that inspire me
 
 - [Clean Architecture by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [Refactoring by Martin Fowler](https://martinfowler.com/books/refactoring.html)
