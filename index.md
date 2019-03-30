@@ -34,4 +34,5 @@ I'm an Engineer working at Etsy on Android. This is my personal space. Any conte
 
 - [Clean Architecture by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [Refactoring by Martin Fowler](https://martinfowler.com/books/refactoring.html)
-- [https://pragprog.com/book/tpp/the-pragmatic-programmer](Pragmatic Programmer)
+- [Pragmatic Programmer by Andrew Hunt and David Thomas](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+
