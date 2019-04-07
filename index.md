@@ -16,9 +16,10 @@ In NYC and want to talk tech? Lets grab a coffee.
 - Server: FAAS, Ktor, Micronaut, Spring
 
 ## My Articles
-- Building an Offline First Mobile App (3 part) - INPRG
+- [Offline First Mobile Apps Pt 1: The Blueprint](https://medium.com/android-things/offline-first-applications-pt-1-the-blueprint-9f518aa374dd)
 - Refactoring Kotlin - INPRG
 - [Why we need Kotlin Native](https://medium.com/android-things/why-we-need-kotlin-native-adacc03e988c)
+
 - [Building a Kotlin Native App on iOS and Android](https://medium.com/android-things/building-a-kotlin-native-on-ios-android-6a6db9df5bef)
 
 ## My Speaking
