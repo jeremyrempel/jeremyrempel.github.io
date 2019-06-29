@@ -17,7 +17,6 @@ In NYC and want to talk tech? Lets grab a coffee.
 
 ## My Articles
 - [Offline First Mobile Apps Pt 1: The Blueprint](https://medium.com/android-things/offline-first-applications-pt-1-the-blueprint-9f518aa374dd)
-- Refactoring Kotlin - INPRG
 - [Painless Dagger+Android+Kotlin](https://medium.com/@jeremyrempel/painless-dagger-android-kotlin-2c3767a24508)
 - [Why we need Kotlin Native](https://medium.com/android-things/why-we-need-kotlin-native-adacc03e988c)
 
