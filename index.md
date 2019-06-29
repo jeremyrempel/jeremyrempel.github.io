@@ -18,6 +18,7 @@ In NYC and want to talk tech? Lets grab a coffee.
 ## My Articles
 - Building an Offline First Mobile App (3 part) - INPRG
 - Refactoring Kotlin - INPRG
+- [Painless Dagger+Android+Kotlin](https://medium.com/@jeremyrempel/painless-dagger-android-kotlin-2c3767a24508)
 - [Why we need Kotlin Native](https://medium.com/android-things/why-we-need-kotlin-native-adacc03e988c)
 - [Building a Kotlin Native App on iOS and Android](https://medium.com/android-things/building-a-kotlin-native-on-ios-android-6a6db9df5bef)
 
