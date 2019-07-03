@@ -13,7 +13,7 @@ In NYC and want to talk tech? Lets grab a coffee.
 - Clean Architecture
 - Offline First Mobile
 - APIs: REST, GraphQL, Protobuffers
-- Server: FAAS, Ktor, Micronaut, Spring
+- Server: FAAS, Ktor, HTTP4K,  Micronaut, Spring
 
 ## My Articles
 - [Painless Dagger+Android+Kotlin](https://medium.com/@jeremyrempel/painless-dagger-android-kotlin-2c3767a24508)
