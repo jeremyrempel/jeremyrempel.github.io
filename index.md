@@ -23,8 +23,9 @@ In NYC and want to talk tech? Lets grab a coffee.
 - [Building a Kotlin Native App on iOS and Android](https://medium.com/android-things/building-a-kotlin-native-on-ios-android-6a6db9df5bef)
 
 ## My Speaking
-- *Droidcon Vienna* - Building a Kotlin Native App on iOS and Android: Sept 19-20
-- [Brooklyn Kotlin June 11](https://www.meetup.com/Brooklyn-Kotlin/events/261514280/) - Building a Kotlin Native App on iOS and Android
+- [Droidcon NYC](https://www.nyc.droidcon.com/) - Kotlin Native (Aug 26-27 2019)
+- [Droidcon Vienna](https://droidcon.at/) - Kotlin Native (Sept 19-20 2019)
+- [Brooklyn Kotlin](https://www.meetup.com/Brooklyn-Kotlin/events/261514280/)- Building a Kotlin Native App on iOS and Android (June 11, 2019)
 
 ## Podcasts that inspire me
 
