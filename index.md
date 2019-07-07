@@ -19,7 +19,6 @@ In NYC and want to talk tech? Lets grab a coffee.
 - [Painless Dagger+Android+Kotlin](https://medium.com/@jeremyrempel/painless-dagger-android-kotlin-2c3767a24508)
 - [Offline First Mobile Apps Pt 1: The Blueprint](https://medium.com/android-things/offline-first-applications-pt-1-the-blueprint-9f518aa374dd)
 - [Why we need Kotlin Native](https://medium.com/android-things/why-we-need-kotlin-native-adacc03e988c)
-
 - [Building a Kotlin Native App on iOS and Android](https://medium.com/android-things/building-a-kotlin-native-on-ios-android-6a6db9df5bef)
 
 ## My Speaking
@@ -28,7 +27,6 @@ In NYC and want to talk tech? Lets grab a coffee.
 - [Brooklyn Kotlin](https://www.meetup.com/Brooklyn-Kotlin/events/261514280/)- Building a Kotlin Native App on iOS and Android (June 11, 2019)
 
 ## Podcasts that inspire me
-
 - [Talking Kotlin](http://talkingkotlin.com/)
 - [Fragmented Podcast](https://fragmentedpodcast.com/)
 - [AB Testing](https://www.angryweasel.com/ABTesting/)
@@ -36,7 +34,6 @@ In NYC and want to talk tech? Lets grab a coffee.
 - [Android Backstage](http://androidbackstage.blogspot.com/)
 
 ## Books that inspire me
-
 - [Joy of Kotlin by Pierre-Yves Saumontj](https://www.manning.com/books/the-joy-of-kotlin)
 - [Clean Architecture by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [Refactoring by Martin Fowler](https://martinfowler.com/books/refactoring.html)
