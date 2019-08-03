@@ -9,7 +9,7 @@ In NYC and want to talk tech? Lets grab a coffee.
 
 ## My Interests
 - Android
-- Multiplatform Mobile / Kotlin Native
+- Multiplatform Mobile (Kotlin Native, Flutter)
 - Clean Architecture
 - Offline First Mobile
 - APIs: REST, GraphQL, Protobuffers
@@ -37,5 +37,8 @@ In NYC and want to talk tech? Lets grab a coffee.
 - [Joy of Kotlin by Pierre-Yves Saumontj](https://www.manning.com/books/the-joy-of-kotlin)
 - [Clean Architecture by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [Refactoring by Martin Fowler](https://martinfowler.com/books/refactoring.html)
-- [Pragmatic Programmer by Andrew Hunt and David Thomas](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+
+## Useful Links (Android)
+
+- [Eliza Camber Animations in Android Gitbook](https://elizacamber.gitbook.io/animations-2018/)
 
