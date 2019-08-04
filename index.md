@@ -40,5 +40,6 @@ In NYC and want to talk tech? Lets grab a coffee.
 
 ## Useful Links (Android)
 
-- [Eliza Camber Animations in Android Gitbook](https://elizacamber.gitbook.io/animations-2018/)
+- [Animation: Eliza Camber Animations in Android Gitbook](https://elizacamber.gitbook.io/animations-2018/)
+- [Career Development: Android Developer Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap/blob/master/README.md)
 
