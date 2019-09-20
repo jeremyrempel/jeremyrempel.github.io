@@ -22,8 +22,8 @@ In NYC and want to talk tech? Lets grab a coffee.
 - [Building a Kotlin Native App on iOS and Android](https://medium.com/android-things/building-a-kotlin-native-on-ios-android-6a6db9df5bef)
 
 ## My Speaking
-- [Droidcon Vienna](https://droidcon.at/) - Kotlin Native (Sept 19-20 2019)
-- Droidcon NYC [[Slides](https://speakerdeck.com/jeremyrempel/2019-droidcon-nyc)] - Building apps Using Kotlin Native (Aug 26-27 2019)
+- [Droidcon Vienna](https://speakerdeck.com/jeremyrempel/building-apps-using-kotlin-native-droidcon-vienna-2019) - Building apps using Kotlin Native (Sept 19, 2019)
+- [Droidcon NYC](https://speakerdeck.com/jeremyrempel/2019-droidcon-nyc)] - Building apps Using Kotlin Native (Aug 26, 2019)
 - [Brooklyn Kotlin](https://www.meetup.com/Brooklyn-Kotlin/events/261514280/)- Building a Kotlin Native App on iOS and Android (June 11, 2019)
 
 ## Podcasts that inspire me
