@@ -16,6 +16,8 @@ In NYC and want to talk tech? Lets grab a coffee.
 - Server: FAAS, Ktor, HTTP4K,  Micronaut, Spring
 
 ## My Articles
+- Testing Kotlin Native (inprg)
+- Offline First Mobile Apps Pt 2: Implementation (inprg)
 - [Painless Dagger+Android+Kotlin](https://medium.com/@jeremyrempel/painless-dagger-android-kotlin-2c3767a24508)
 - [Offline First Mobile Apps Pt 1: The Blueprint](https://medium.com/android-things/offline-first-applications-pt-1-the-blueprint-9f518aa374dd)
 - [Why we need Kotlin Native](https://medium.com/android-things/why-we-need-kotlin-native-adacc03e988c)
