@@ -4,16 +4,14 @@
 layout: default
 ---
 
-I'm an Engineer working at Etsy in NYC on Android. Any content, opinions are my own. I write and talk about things that are interesting to me.
+I'm an Engineer working at [Etsy](https://etsy.com) in NYC on Android. Any content, opinions are my own. I write and talk about things that are interesting to me.
 In NYC and want to talk tech? Lets grab a coffee.
 
-## My Interests
-- Android
-- Multiplatform Mobile (Kotlin Native, Flutter)
-- Clean Architecture
-- Offline First Mobile
-- APIs: REST, GraphQL, Protobuffers
-- Server: FAAS, Ktor, HTTP4K,  Micronaut, Spring
+## My Speaking
+
+- [Droidcon Vienna Slides](https://speakerdeck.com/jeremyrempel/building-apps-using-kotlin-native-droidcon-vienna-2019) - Building apps using Kotlin Native (Sept 19, 2019)
+- [Droidcon NYC Video](https://www.droidcon.com/media-detail?video=362610043) - Building apps Using Kotlin Native (Aug 26, 2019)
+- [Brooklyn Kotlin Meetup](https://www.meetup.com/Brooklyn-Kotlin/events/261514280/)- Building a Kotlin Native App on iOS and Android (June 11, 2019)
 
 ## My Articles
 - Testing Kotlin Native (inprg)
@@ -23,10 +21,14 @@ In NYC and want to talk tech? Lets grab a coffee.
 - [Why we need Kotlin Native](https://medium.com/android-things/why-we-need-kotlin-native-adacc03e988c)
 - [Building a Kotlin Native App on iOS and Android](https://medium.com/android-things/building-a-kotlin-native-on-ios-android-6a6db9df5bef)
 
-## My Speaking
-- [Droidcon Vienna Slides](https://speakerdeck.com/jeremyrempel/building-apps-using-kotlin-native-droidcon-vienna-2019) - Building apps using Kotlin Native (Sept 19, 2019)
-- [Droidcon NYC Video](https://www.droidcon.com/media-detail?video=362610043) - Building apps Using Kotlin Native (Aug 26, 2019)
-- [Brooklyn Kotlin Meetup](https://www.meetup.com/Brooklyn-Kotlin/events/261514280/)- Building a Kotlin Native App on iOS and Android (June 11, 2019)
+## My Interests
+
+- Android
+- Multiplatform Mobile (Kotlin Native, Flutter)
+- Clean Architecture
+- Offline First Mobile
+- APIs: REST, GraphQL, Protobuffers
+- Server: FAAS, Ktor, HTTP4K,  Micronaut, Spring
 
 ## Podcasts that inspire me
 - [Talking Kotlin](http://talkingkotlin.com/)
