@@ -4,12 +4,7 @@
 layout: default
 ---
 
-<<<<<<< HEAD
-I'm an Engineer working at Etsy in NYC on Android. Any content, opinions are my own. I write and talk about things that are interesting to me.
-=======
 I'm an Engineer working at [Etsy](https://etsy.com) in NYC on Android. Any content, opinions are my own. I write and talk about things that are interesting to me.
-In NYC and want to talk tech? Lets grab a coffee.
->>>>>>> bc6c231988daddb2163d387ef9c88486f0a377c9
 
 ## My Speaking
 
