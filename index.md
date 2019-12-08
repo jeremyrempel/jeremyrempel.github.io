@@ -4,26 +4,35 @@
 layout: default
 ---
 
+<<<<<<< HEAD
 I'm an Engineer working at Etsy in NYC on Android. Any content, opinions are my own. I write and talk about things that are interesting to me.
+=======
+I'm an Engineer working at [Etsy](https://etsy.com) in NYC on Android. Any content, opinions are my own. I write and talk about things that are interesting to me.
+In NYC and want to talk tech? Lets grab a coffee.
+>>>>>>> bc6c231988daddb2163d387ef9c88486f0a377c9
+
+## My Speaking
+
+- [Droidcon Vienna Slides](https://speakerdeck.com/jeremyrempel/building-apps-using-kotlin-native-droidcon-vienna-2019) - Building apps using Kotlin Native (Sept 19, 2019)
+- [Droidcon NYC Video](https://www.droidcon.com/media-detail?video=362610043) - Building apps Using Kotlin Native (Aug 26, 2019)
+- [Brooklyn Kotlin Meetup](https://www.meetup.com/Brooklyn-Kotlin/events/261514280/)- Building a Kotlin Native App on iOS and Android (June 11, 2019)
+
+## My Articles
+- Testing Kotlin Native (inprg)
+- Offline First Mobile Apps Pt 2: Implementation (inprg)
+- [Painless Dagger+Android+Kotlin](https://medium.com/@jeremyrempel/painless-dagger-android-kotlin-2c3767a24508)
+- [Offline First Mobile Apps Pt 1: The Blueprint](https://medium.com/android-things/offline-first-applications-pt-1-the-blueprint-9f518aa374dd)
+- [Why we need Kotlin Native](https://medium.com/android-things/why-we-need-kotlin-native-adacc03e988c)
+- [Building a Kotlin Native App on iOS and Android](https://medium.com/android-things/building-a-kotlin-native-on-ios-android-6a6db9df5bef)
 
 ## My Interests
+
 - Android
 - Multiplatform Mobile (Kotlin Native, Flutter)
 - Clean Architecture
 - Offline First Mobile
 - APIs: REST, GraphQL, Protobuffers
 - Server: FAAS, Ktor, HTTP4K,  Micronaut, Spring
-
-## My Articles
-- [Painless Dagger+Android+Kotlin](https://medium.com/@jeremyrempel/painless-dagger-android-kotlin-2c3767a24508)
-- [Offline First Mobile Apps Pt 1: The Blueprint](https://medium.com/android-things/offline-first-applications-pt-1-the-blueprint-9f518aa374dd)
-- [Why we need Kotlin Native](https://medium.com/android-things/why-we-need-kotlin-native-adacc03e988c)
-- [Building a Kotlin Native App on iOS and Android](https://medium.com/android-things/building-a-kotlin-native-on-ios-android-6a6db9df5bef)
-
-## My Speaking
-- [Droidcon Vienna](https://droidcon.at/) - Kotlin Native (Sept 19-20 2019)
-- Droidcon NYC [[Slides](https://speakerdeck.com/jeremyrempel/2019-droidcon-nyc)] - Building apps Using Kotlin Native (Aug 26-27 2019)
-- [Brooklyn Kotlin](https://www.meetup.com/Brooklyn-Kotlin/events/261514280/)- Building a Kotlin Native App on iOS and Android (June 11, 2019)
 
 ## Podcasts that inspire me
 - [Talking Kotlin](http://talkingkotlin.com/)
