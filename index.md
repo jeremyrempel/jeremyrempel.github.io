@@ -5,7 +5,6 @@ layout: default
 ---
 
 I'm an Engineer working at Etsy in NYC on Android. Any content, opinions are my own. I write and talk about things that are interesting to me.
-In NYC and want to talk tech? Lets grab a coffee.
 
 ## My Interests
 - Android
