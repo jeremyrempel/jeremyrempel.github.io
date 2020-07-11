@@ -7,6 +7,7 @@ layout: default
 I'm an Engineer working at [Squarespace](https://squarespace.com) in NYC on Android. Any content, opinions are my own. I write and talk about things that are interesting to me.
 
 ## My Articles
+- [Leveraging Android Lint Checks](https://medium.com/@jeremyrempel/leveraging-android-lint-checks-497992dc98dd)
 - Offline First Mobile Apps Pt 2: Implementation (inprg)
 - [Painless Dagger+Android+Kotlin](https://medium.com/@jeremyrempel/painless-dagger-android-kotlin-2c3767a24508)
 - [Offline First Mobile Apps Pt 1: The Blueprint](https://medium.com/android-things/offline-first-applications-pt-1-the-blueprint-9f518aa374dd)
