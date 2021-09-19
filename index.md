@@ -4,7 +4,7 @@
 layout: default
 ---
 
-I'm an Engineer working at [Squarespace](https://squarespace.com) in NYC on Android. Any content, opinions are my own. I write and talk about things that are interesting to me.
+I'm an Engineer working at [Squarespace](https://squarespace.com) in NYC. Any content, opinions are my own. I write and talk about things that are interesting to me.
 
 ## My Articles
 - [Improving Android startup: Initializing Dagger Async](https://jeremyrempel.medium.com/improving-android-startup-initializing-dagger-async-f8193b48f834)
@@ -20,12 +20,9 @@ I'm an Engineer working at [Squarespace](https://squarespace.com) in NYC on Andr
 - [Brooklyn Kotlin Meetup](https://www.meetup.com/Brooklyn-Kotlin/events/261514280/)- Building a Kotlin Native App on iOS and Android (June 11, 2019)
 
 ## My Interests
-- Android
-- Multiplatform Mobile (Kotlin Native, Flutter)
-- Clean Architecture
-- Offline First Mobile
-- APIs: REST, GraphQL, Protobuffers
 - Server: FAAS, Ktor, HTTP4K,  Micronaut, Spring
+- Mobile (Android, iOS)
+- APIs: REST, GraphQL, Protobuffers
 
 ## Podcasts that inspire me
 - [Talking Kotlin](http://talkingkotlin.com/)
@@ -35,7 +32,9 @@ I'm an Engineer working at [Squarespace](https://squarespace.com) in NYC on Andr
 - [Android Backstage](http://androidbackstage.blogspot.com/)
 
 ## Books that inspire me
-- [Joy of Kotlin by Pierre-Yves Saumontj](https://www.manning.com/books/the-joy-of-kotlin)
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+- [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook-dp-B078H61SCH/dp/B078H61SCH/ref=mt_other?_encoding=UTF8&me=&qid=1632093663)
+- [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Code-EFFECT-ebook-dp-B005OYHF0A/dp/B005OYHF0A/ref=mt_other?_encoding=UTF8&me=&qid=1632093793)
 - [Clean Architecture by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [Refactoring by Martin Fowler](https://martinfowler.com/books/refactoring.html)
 
