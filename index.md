@@ -31,15 +31,15 @@ I'm an Engineer working at [Squarespace](https://squarespace.com) in NYC. Any co
 - [SE Daily](https://softwareengineeringdaily.com/)
 - [Android Backstage](http://androidbackstage.blogspot.com/)
 
+## Modern CLI tools
+- [HttpPie](https://httpie.io) - A better curl
+- [Charm](https://github.com/charmbracelet/charm) - Markdown viewer
+- [Bat](https://github.com/sharkdp/bat) - A better cat
+
 ## Books that inspire me
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook-dp-B078H61SCH/dp/B078H61SCH/ref=mt_other?_encoding=UTF8&me=&qid=1632093663)
 - [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Code-EFFECT-ebook-dp-B005OYHF0A/dp/B005OYHF0A/ref=mt_other?_encoding=UTF8&me=&qid=1632093793)
 - [Clean Architecture by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [Refactoring by Martin Fowler](https://martinfowler.com/books/refactoring.html)
-
-## Useful Links (Android)
-
-- [Animation: Eliza Camber Animations in Android Gitbook](https://elizacamber.gitbook.io/animations-2018/)
-- [Career Development: Android Developer Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap/blob/master/README.md)
 
